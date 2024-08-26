@@ -4,7 +4,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="24"/> Hey! I'm Jenil.</h1>
 
 Welcome to my page!
-I'm Jenil Sojitra, a Frontend Developer and a TYBCA student at CBPATEL Computer College under VNSGU University.
+I'm Jenil Sojitra, a Frontend Developer and a TYBCA student at VNSGU University.
 
 ## 🌟 About Me
 
