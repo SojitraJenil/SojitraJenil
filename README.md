@@ -28,7 +28,7 @@ I'm passionate about web development, and I specialize in creating beautiful and
 
 Feel free to reach out for collaboration, discussion, or just to say hi!
 
-- Email: [sojitrasojitra0@gmail.com](mailto:sojitrasojitra0@gmail.com)
+![Email](mailto:sojitrasojitra0@gmail.com)
 
 Let's build something awesome together! 🚀
 
