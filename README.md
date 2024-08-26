@@ -1,5 +1,4 @@
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SojitraJenil.SojitraJenil" alt="Visitor Badge">    
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jenilsojitra.jenilsojitra" alt="Visitor Badge">    
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="24"/> Hey! I'm Jenil.</h1>
 
@@ -28,10 +27,11 @@ I'm passionate about web development, and I specialize in creating beautiful and
 
 Feel free to reach out for collaboration, discussion, or just to say hi!
 
-[![Email](https://img.shields.io/badge/Email-sojitrasojitra0@gmail.com-blue)](mailto:sojitrasojitra0@gmail.com)
+[![Email](https://img.shields.io/badge/Email-send%20a%20hi%20message-red)](mailto:sojitrasojitra0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jenil%20Sojitra-blue)](https://www.linkedin.com/in/jenil-sojitra-0a18a2250/)
 
 Let's build something awesome together! 🚀
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SojitraJenil&show_icons=true&locale=en&layout=compact" alt="SojitraJenil" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jenilsojitra&show_icons=true&locale=en&layout=compact" alt="jenilsojitra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SojitraJenil&show_icons=true&locale=en" alt="SojitraJenil" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jenilsojitra&show_icons=true&locale=en" alt="jenilsojitra" /></p>
