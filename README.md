@@ -3,7 +3,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="24"/> Hey! I'm Jenil.</h1>
 
 Welcome to my page!
-I'm Jenil, a seasoned MERN stack developer with a solid 6 months of hands-on experience in the realm of software development. I specialize in building robust and scalable web applications with a focus on both frontend and backend development.
+I'm Jenil, a seasoned MERN stack developer with a solid 3 year of hands-on experience in the realm of software development. I specialize in building robust and scalable web applications with a focus on both frontend and backend development.
 
 ## 🌟 About Me
 
